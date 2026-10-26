@@ -9,7 +9,7 @@
         "setup": "npm install && bundle install",
         "build": "npm run clean && bundle exec jekyll build --trace",
         "dev": "bundle exec jekyll serve --livereload --watch --trace",
-        "start": "npm run clean && npm run setup && npm run dev"
+        "start": "npm run clean && npm run setup && npm run dev" 
     },
     "author": "chrisrhymes",
     "license": "MIT",
