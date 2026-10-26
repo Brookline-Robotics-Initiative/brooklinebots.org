@@ -29,6 +29,10 @@
     - name: Robert Rizika
       description: Personal Sponsor
       image: ../images/sponsors/Robert_Rzika.jpg
+    - name: Rhapsody Health
+      description: Company Sponsor
+      profile: https://rhapsody.health/
+      image: ../images/sponsors/RhapsodyHealth.png
     - name: Glassman and Associates
       description: Company Sponsor
       image: ../images/sponsors/GlassmanLogo.png

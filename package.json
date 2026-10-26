@@ -5,7 +5,11 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "rmdir /s /q .\\_site && rmdir /s /q .\\.jekyll-cache && npm update -g && npm install && bundle update && bundle install && npm install && bundle exec jekyll serve --incremental --trace --watch"
+        "clean": "node -e \"for (const d of ['_site','.jekyll-cache']) require('fs').rmSync(d,{recursive:true,force:true})\"",
+        "setup": "npm install && bundle install",
+        "build": "npm run clean && bundle exec jekyll build --trace",
+        "dev": "bundle exec jekyll serve --livereload --watch --trace",
+        "start": "npm run clean && npm run setup && npm run dev" 
     },
     "author": "chrisrhymes",
     "license": "MIT",
