@@ -7,80 +7,88 @@
       year: 27
       captain: true
       image: ../images/TeamMembers/Ananya.jpg
-      bio: "Ananya is a third-year member and team captain."
+      bio: "Ananya is a fourth-year member and team captain."
+
+    - name: "Talia Hsieh"
+      year: 27
+      captain: true
+      image: ../images/TeamMembers/Talia.jpg
+      bio: "Talia is a third-year member and team captain."
+
+    - name: "Brielle Hwang"
+      year: 28
+      captain: true
+      image: ../images/TeamMembers/Brielle.jpg
+      bio: "Brielle is a fourth-year member and team captain."
 
     #Seniors
     - name: "Yael Shapiro"
       year: 27
       image: ../images/TeamMembers/Yael.jpg
-      bio: "Yael is a second-year member."
+      bio: "Yael is a third-year member."
 
-    - name: "Talia Hsieh"
-      year: 27
-      image: ../images/TeamMembers/Talia.jpg
-      bio: "Talia is a second-year member."
 
     #Juniors
-    - name: "Brielle Hwang"
-      year: 28
-      image: ../images/TeamMembers/Brielle.jpg
-      bio: "Brielle is a third-year member."
-
     - name: "Ariel Ben-Asher"
       year: 28
       image: ../images/TeamMembers/Ariel.jpg
-      bio: "Ariel is a second-year member."
+      bio: "Ariel is a third-year member."
 
     - name: "Sophie Isla Farago"
       year: 28
       image: ../images/TeamMembers/Sophie.jpg
-      bio: "Sophie is a second-year member."
+      bio: "Sophie is a third-year member."
 
     - name: "Lily Burke"
       year: 28
       image: ../images/TeamMembers/Lily.jpg
-      bio: "Lily is a second-year member."
+      bio: "Lily is a third-year member."
 
     - name: "Hailey Silk"
       year: 28
       image: ../images/TeamMembers/Hailey.jpg
-      bio: "Hailey is a second-year member."
+      bio: "Hailey is a third-year member."
 
     - name: "Neta Orr"
       year: 28
       image: ../images/TeamMembers/Neta.jpg
-      bio: "Neta is a first-year member."
+      bio: "Neta is a second-year member."
 
     - name: "Violet Linas"
       year: 28
       image: ../images/TeamMembers/Violet.jpg
-      bio: "Violet is a first-year member."
+      bio: "Violet is a second-year member."
 
     - name: "Doelle Bhattacharya"
       year: 28
       image: ../images/TeamMembers/Doelle.jpg
-      bio: "Doelle is a first-year member."
+      bio: "Doelle is a second-year member."
 
     #Sophomores
-    - name: "EL Lee"
+    - name: "El Lee"
       year: 29
+      image: ../images/TeamMembers/El.jpg
       bio: "EL is a first-year member."
 
     - name: "Elora Liang"
       year: 29
+      image: ../images/TeamMembers/Elora.jpg
       bio: "Elora is a first-year member."
 
-    - name: "Dana Imambek" 
+    - name: "Dana Imambek"
       year: 29
+      image: ../images/TeamMembers/Dana.jpg
       bio: "Dana is a first-year member."
 
     #Freshmen
     - name: "Bernice Silberberg"
       year: 30
+      image: ../images/TeamMembers/Bernice.jpg
       bio: "Bernice is a first-year member."
 
     - name: "Heer Doshi"
       year: 30
+     # image: ../images/TeamMembers/Bernice.jpg
       bio: "Heer is a first-year member."
 
 
@@ -108,23 +116,23 @@
 
     - name: "Luki Deitchman"
       role: "Technical CAD Mentor"
-      # image: ../images/Mentors/LukiDeitchman.png
+      image: ../images/TeamMembers/Luki.jpg
       bio: "Luki advises our CADers and is a student at Boston University. As an alumni of FIRST, they give us specialized recommendations."
 
     - name: "Aubrey Love"
       role: "CAD & Manufacturing Mentor"
       image: ../images/Mentors/AubreyLove.png
       bio: "Mr. Love helps us overcome problems related to Fusion 360 and CAD. Additionally, he allows us to use his machines to manufacture custom adaption pieces for our robot."
-    
+
     - name: "Britt Stevens"
       role: "Mentor"
       image: ../images/Mentors/BrittStevens.png
       bio: "Britt Stevens advises us on how to work within the BHS system to get resources from both the school and the town of Brookline."
 
-    - name: "Michelle McGlone"
-      role: "Summer Camp Advisor"
-      image: ../images/Mentors/MichelleMcGone.png
-      bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
+   # - name: "Michelle McGlone"
+   #   role: "Summer Camp Advisor"
+   #   image: ../images/Mentors/MichelleMcGone.png
+   #   bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
 
     - name: "Ed Wiser"
       role: "Build Advisor"
