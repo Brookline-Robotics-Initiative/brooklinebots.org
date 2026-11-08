@@ -88,7 +88,7 @@
 
     - name: "Heer Doshi"
       year: 30
-     # image: ../images/TeamMembers/Bernice.jpg
+      image: ../images/TeamMembers/Heer.jpg
       bio: "Heer is a first-year member."
 
 
